@@ -1,2 +1,3 @@
 # hello-world
-My first repository created during account setup.
+
+I am a new programmer hoping to learn more!
